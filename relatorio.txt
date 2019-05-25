@@ -1,0 +1,15 @@
+git config --global user.name "Usuario" - para ver quem ta mandando a bagaça
+git config --global user.email "EMAIL do Usuario" - msm esquemas
+mkdir - Criar a pasta
+cd "nome da pasta criada" - para acessar a pasta
+git clone "https://github.com/nomedousuariosafado/nomedodiretorio"
+git pull - pega as alteraçoes caso ja feitas
+touch "arquivo.txt" - criar o arquivo
+vi "arquivo.txt" - para fazer inserção dos dados
+git add "arquivo.txt" - para add no stage"
+git status - so pra da uma olhadinha nas bagaça e ve se ta certo
+git commit -m "comentario desnecessario" - pra comitar pro repositorio
+git push -f origin master - pra enviar pro repositorio do github
+git log - so pra verificar as modificações que foram feitas.
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE:::::::::::::GGWP:::::::::::::::::EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+GGWP = GOOD GAME WELL PLAYED !!!
